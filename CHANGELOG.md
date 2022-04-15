@@ -15,3 +15,8 @@
 ### Updates
 - update to Angular 11
 - update all dependencies to match Angular 11 version
+
+## [1.3.0] - 2022-04-15
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
